@@ -12,7 +12,7 @@
 .logo {
  padding-bottom: 45px;
 }
-.navig{
+.navig {
  width: 1280px;
  line-height: 69px;
  background-color: #35444f;
@@ -36,7 +36,7 @@
  padding-left: 42px;
  padding-right: 42px;
 }
-.land  {
+.land {
  padding-left: 43px;
  padding-right: 42px;
 }
@@ -116,16 +116,16 @@
  padding-left: 44px;
  padding-right: 148px;
 }
-.menu  ul a {
+.menu ul a {
  text-decoration: none;
  color: #485863;
 }
-.menu  ul {
+.menu ul {
  display: inline-block;
  list-style-type: none;
  padding-inline-start: 0px;
 }
-.menu  li {
+.menu li {
  display: inline-block;
  color: black;
  padding-right: 8px;

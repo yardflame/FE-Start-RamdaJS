@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'MyriadPro-Regular' ;
+    src: url(./fonts/MyriadProRegular.ttf);
+}
+.site {
+ width: 1480px;
+ height: 1282px;
+ margin: 0 auto;
+ padding-top: 61px;
+ padding-left: 101px;
+}
+.logo {
+ padding-bottom: 45px;
+}
+.navig{
+ width: 1280px;
+ line-height: 69px;
+ background-color: #35444f;
+ font-family: 'MyriadPro-Regular';
+ color: rgba(255, 255, 255, 1);
+}
+.navig a {
+ font-family: 'MyriadPro-Regular';
+ font-size: 22px;
+ color: rgba(255, 255, 255, 1);
+ text-align: center;
+ text-decoration: none;
+ padding-top: 22px;
+ padding-bottom: 24px;
+}
+.prog {
+ padding-left: 203px;
+ padding-right: 42px;
+}
+.ramd {
+ padding-left: 42px;
+ padding-right: 42px;
+}
+.land  {
+ padding-left: 43px;
+ padding-right: 42px;
+}
+.node {
+ padding-left: 85px;
+ padding-right: 180px;
+}
+
+.navig a:hover {
+ background-color: #222f3a;
+ border-left: 1px solid white;
+ border-right: 1px solid white;
+}
+.container {
+ padding-top: 50px;
+ padding-bottom: 50px;
+ padding-right: 0px;
+
+}
+.sidebar {
+ display: inline-block;
+ width: 344px;
+ border: 1px solid black;
+ font-family: 'MyriadPro-Regular';
+ font-size: 30px;
+	
+}
+.sidebar a {
+ display: block;
+ color: #485863;
+ text-decoration: none;
+ padding-left: 44px;
+ line-height: 80px; 
+}
+.sidebar a:hover {
+ background-color: #dbdbdb;
+ padding-left: 70px;
+ color: black;
+ font-weight: 500;
+}
+.content {
+ display: inline-block;
+ width: 885px;
+ padding-left: 50px;
+ vertical-align: top;
+}
+.top_img {
+ border: 1px solid black;
+ display: inline-block;
+ padding-top: 75px;
+ padding-bottom: 75px;
+ padding-left: 272px;
+ padding-right: 288px;
+}
+.text {
+ font-family:'MyriadPro-Regular';
+ font-size: 18px;
+ padding-top: 50px;
+ padding-left: 30px;
+}
+.par_one {
+ width: 815px;
+ text-align: justify;
+}
+.par_two {
+ width: 820px;
+ text-align: justify;
+}
+.footer {
+ width: 1280px;
+ background-color: #b4b7ba;
+}
+.menu {
+ display: inline-block;
+ font-family:'MyriadPro-Regular';
+ font-size: 28px;
+ padding-left: 44px;
+ padding-right: 148px;
+}
+.menu  ul a {
+ text-decoration: none;
+ color: #485863;
+}
+.menu  ul {
+ display: inline-block;
+ list-style-type: none;
+ padding-inline-start: 0px;
+}
+.menu  li {
+ display: inline-block;
+ color: black;
+ padding-right: 8px;
+}
+.menu  li:hover {
+ display: inline-block;
+ color: #3181a6;
+ text-decoration: underline;
+}
+.copyright {
+ display: inline-block;
+ font-family:'MyriadPro-Regular';
+ font-size: 24px;
+ padding-right: 34px;
+}
+
